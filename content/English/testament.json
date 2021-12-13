@@ -1,0 +1,333 @@
+[{
+    "pages": [{
+        "id": "1",
+        "page": "Genesis",
+        "chapters": 31
+    },
+    {
+        "id": "2",
+        "page": "Exodus",
+        "chapters": 22
+    },
+    {
+        "id": "3",
+        "page": "Leviticus",
+        "chapters": 27
+    },
+    {
+        "id": "4",
+        "page": "Numbers",
+        "chapters": 36
+    },
+    {
+        "id": "5",
+        "page": "Deuteronomy",
+        "chapters": 34
+    },
+    {
+        "id": "6",
+        "page": "Joshua",
+        "chapters": 24
+    },
+    {
+        "id": "7",
+        "page": "Judges",
+        "chapters": 21
+    },
+    {
+        "id": "8",
+        "page": "Ruth",
+        "chapters": 4
+    },
+    {
+        "id": "9",
+        "page": "I Samuel",
+        "chapters": 31
+    },
+    {
+        "id": "10",
+        "page": "II Samuel",
+        "chapters": 24
+    },
+    {
+        "id": "11",
+        "page": "I Kings",
+        "chapters": 22
+    },
+    {
+        "id": "12",
+        "page": "II Kings",
+        "chapters": 25
+    },
+    {
+        "id": "13",
+        "page": "I Chronicles",
+        "chapters": 29
+    },
+    {
+        "id": "14",
+        "page": "II Chronicles",
+        "chapters": 36
+    },
+    {
+        "id": "15",
+        "page": "Ezra",
+        "chapters": 10
+    },
+    {
+        "id": "16",
+        "page": "Nehemiah",
+        "chapters": 13
+    },
+    {
+        "id": "17",
+        "page": "Esther",
+        "chapters": 10
+    },
+    {
+        "id": "18",
+        "page": "Job",
+        "chapters": 42
+    },
+    {
+        "id": "19",
+        "page": "Psalm",
+        "chapters": 150
+    },
+    {
+        "id": "20",
+        "page": "Proverbs",
+        "chapters": 31
+    },
+    {
+        "id": "21",
+        "page": "Ecclesiastes",
+        "chapters": 12
+    },
+    {
+        "id": "22",
+        "page": "Song Of Solomon",
+        "chapters": 8
+    },
+    {
+        "id": "23",
+        "page": "Isaiah",
+        "chapters": 66
+    },
+    {
+        "id": "24",
+        "page": "Jeremiah",
+        "chapters": 52
+    },
+    {
+        "id": "25",
+        "page": "Lamentation",
+        "chapters": 5
+    },
+    {
+        "id": "26",
+        "page": "Ezekiel",
+        "chapters": 48
+    },
+    {
+        "id": "27",
+        "page": "Daniel",
+        "chapters": 12
+    },
+    {
+        "id": "28",
+        "page": "Hosea",
+        "chapters": 14
+    },
+    {
+        "id": "29",
+        "page": "Joel",
+        "chapters": 3
+    },
+    {
+        "id": "30",
+        "page": "Amos",
+        "chapters": 9
+    },
+    {
+        "id": "31",
+        "page": "Obadiah",
+        "chapters": 1
+    },
+    {
+        "id": "32",
+        "page": "Jonah",
+        "chapters": 4
+    },
+    {
+        "id": "33",
+        "page": "Micah",
+        "chapters": 7
+    },
+    {
+        "id": "34",
+        "page": "Nahum",
+        "chapters": 3
+    },
+    {
+        "id": "35",
+        "page": "Habakkuk",
+        "chapters": 3
+    },
+    {
+        "id": "36",
+        "page": "Zephaniah",
+        "chapters": 3
+    },
+    {
+        "id": "37",
+        "page": "Haggai",
+        "chapters": 2
+    },
+    {
+        "id": "38",
+        "page": "Zechariah",
+        "chapters": 14
+    },
+    {
+        "id": "39",
+        "page": "Malachi",
+        "chapters": 4
+    },
+    {
+        "id": "40",
+        "page": "Matthew",
+        "chapters": 28
+    },
+    {
+        "id": "41",
+        "page": "Mark",
+        "chapters": 16
+    },
+    {
+        "id": "42",
+        "page": "Luke",
+        "chapters": 16
+    },
+    {
+        "id": "43",
+        "page": "John",
+        "chapters": 21
+    },
+    {
+        "id": "44",
+        "page": "Acts",
+        "chapters": 28
+    },
+    {
+        "id": "45",
+        "page": "Romans",
+        "chapters": 16
+    },
+    {
+        "id": "46",
+        "page": "I Corinthians",
+        "chapters": 16
+    },
+    {
+        "id": "47",
+        "page": "II Corinthians",
+        "chapters": 13
+    },
+    {
+        "id": "48",
+        "page": "Galatians",
+        "chapters": 6
+    },
+    {
+        "id": "49",
+        "page": "Ephesians",
+        "chapters": 6
+    },
+    {
+        "id": "50",
+        "page": "Philipians",
+        "chapters": 4
+    },
+    {
+        "id": "51",
+        "page": "Colossians",
+        "chapters": 4
+    },
+    {
+        "id": "52",
+        "page": "I Thessalonians",
+        "chapters": 5
+    },
+    {
+        "id": "53",
+        "page": "II Thessalonians",
+        "chapters": 3
+    },
+    {
+        "id": "54",
+        "page": "I Timothy",
+        "chapters": 6
+    },
+    {
+        "id": "55",
+        "page": "II Timothy",
+        "chapters": 4
+    },
+    {
+        "id": "56",
+        "page": "Titus",
+        "chapters": 3
+    },
+    {
+        "id": "57",
+        "page": "Philemon",
+        "chapters": 1
+    },
+    {
+        "id": "58",
+        "page": "Hebrews",
+        "chapters": 13
+    },
+    {
+        "id": "59",
+        "page": "James",
+        "chapters": 5
+    },
+    {
+        "id": "60",
+        "page": "I Peter",
+        "chapters": 5
+    },
+    {
+        "id": "61",
+        "page": "II Peter",
+        "chapters": 3
+    },
+    {
+        "id": "62",
+        "page": "I John",
+        "chapters": 5
+    },
+    {
+        "id": "63",
+        "page": "II John",
+        "chapters": 1
+    },
+    {
+        "id": "64",
+        "page": "III John",
+        "chapters": 1
+    },
+    {
+        "id": "65",
+        "page": "Jude",
+        "chapters": 1
+    },
+    {
+        "id": "66",
+        "page": "Revelation",
+        "chapters": 22
+    }
+    ]
+}]
